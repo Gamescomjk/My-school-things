@@ -1,4 +1,4 @@
-1.  New England colonies
+ 1.  New England colonies
 	-   Political- Mayflower Compact (1620) established self-government in Massachusetts
 	-   Economic- Lumbering, fishing, shipbuilding, fur trade, subsistence farming, and  manufacturing 
 	-   Geographical- Long cold winters, hard rocky soil, short growing seasons

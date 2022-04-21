@@ -7,8 +7,12 @@
         "id": "3484173e7ec7a0da",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "History/Unit 1/The 13 British Colonies.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "51041d979ebdf0d1",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Unit 1/The 13 British Colonies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +93,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "History/Unit 1/The 13 British Colonies.md"
+              }
+            }
+          },
+          {
+            "id": "24db85d702829fc3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,14 +116,14 @@
   "active": "3484173e7ec7a0da",
   "lastOpenFiles": [
     "History/Unit 1/The 13 British Colonies.md",
+    "History/Unit 1/Quick Review History Unit 1.md",
+    "History/Unit 1/Jamestown.md",
+    "History/Unit 1/Goverment.md",
+    "Attachments/History/Unit one/Vocab.png",
     "History/Unit 1/The Growth of Religious Freedom.md",
     "History/Unit 1/Overview of History Unit One.md",
-    "History/Unit 1/Goverment.md",
-    "History/Unit 1/Quick Review History Unit 1.md",
     "Main.md",
     "History/History Units.md",
-    "Attachments/History/Unit one/Vocab.png",
-    "History/Unit 1/Colonial Adventure Tales of America.md",
-    "Attachments/History/Untitled.md"
+    "History/Unit 1/Colonial Adventure Tales of America.md"
   ]
 }
