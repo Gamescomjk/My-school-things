@@ -5,7 +5,7 @@ Index:
 [[Jamestown]]
 [[The 13 British Colonies]]
 [[Colonial Adventure Tales of America]]
-[[The Growth of Religious Freedom]]
+[[Groups (The Growth of Religious Freedom)]]
 [[Quick Review History Unit 1]]
 
 

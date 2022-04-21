@@ -27,12 +27,12 @@ Colonization
 
 1607- 1776 - Colonization, the development of lasting settlements, was fueled by push (overpopulation in Europe) and pull factors. Escaping religious persecution, opportunity to own land and escape debt (economic opportunity)
 
--   1607 Jamestown, Virginia: First permanent colony, founded by English, first slaves in America 1619, established tobacco cash crop to succeed. 
+-   1607 [[Jamestown]], Virginia: First permanent colony, founded by English, first slaves in America 1619, established tobacco cash crop to succeed. 
     
 -   1620 Plymouth, Massachusetts: Founded by Pilgrims to escape religious persecution, signed the Mayflower Compact to self-govern. 
     
 
-13 Colonies: Coast of the Atlantic Ocean/Appalachian Mountains westward boundary 
+[[The 13 British Colonies]]: Coast of the Atlantic Ocean/Appalachian Mountains westward boundary 
 
 New England
 	Massachusetts, New Hampshire, Connecticut, Rhode Island
@@ -45,7 +45,7 @@ Southern
 	Cash Crops (tobacco)
 
 
-Groups
+[[Groups (The Growth of Religious Freedom)]]
 
 Pilgrims and Puritans: Wanted to separate/purify the Church  of England, came for religious freedom to Massachusetts
 
